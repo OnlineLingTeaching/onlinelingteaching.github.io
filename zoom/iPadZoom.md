@@ -2,6 +2,7 @@
 layout: default
 title: Using Zoom with an iPad
 has_children: false
+parent: Zoom
 ---
 
 # Using Zoom with an iPad
