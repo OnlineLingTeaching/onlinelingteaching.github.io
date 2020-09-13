@@ -1,7 +1,6 @@
 ---
-layout: default
 title: Welcome
-nav_order: 1
+nav_exclude: true
 ---
 
 # Welcome
@@ -15,5 +14,7 @@ Ideally the information here should be self-contained. There are other sites tha
 I envision this site as a collaborative effort, and welcome people who would like to add content. Site pages are written in [Markdown](https://guides.github.com/features/mastering-markdown/) which makes adding new content easy for anyone (no coding skills required). The site is managed through a GitHub repository, so it helps if you are familiar with using Git in some way.
 
 Alan Munn
+
 Michigan State University
+
 [onlinelingteaching@gmail.com](mailto:onlinelingteaching@gmail.com)
