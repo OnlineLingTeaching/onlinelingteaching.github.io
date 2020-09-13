@@ -1,0 +1,11 @@
+% !TEX TS-program = arara
+% arara: lualatex: { shell: true }
+
+\documentclass[convert]{standalone}
+\usepackage{tikz}
+\usepackage{fontspec}
+\setmainfont{Fira Sans Condensed}
+
+\begin{document}
+\tikz\node[fill=orange!70, align=center,text=white,font={\fontsize{72}{80}\selectfont},inner sep=12pt]{Online Linguistics Teaching};
+\end{document}
