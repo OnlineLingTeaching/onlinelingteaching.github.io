@@ -1,5 +1,4 @@
 ---
-nav_exclude: true
 title: License
 ---
 
