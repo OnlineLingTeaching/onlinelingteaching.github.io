@@ -1,3 +1,8 @@
+---
+nav_exclude: true
+title: License
+---
+
 Attribution-ShareAlike 4.0 International
 
 =======================================================================
