@@ -1,5 +1,5 @@
 ---
-title: License
+title: Licence
 nav_order: zz
 
 ---
